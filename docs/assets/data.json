@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "title": "Street Fighter 6 Wishlist website",
+        "desc": "Introduction.",
+        "liveUrl": "https://sf6wishlist.azurewebsites.net/",
+        "gitUrl" : "https://github.com/yangryu321/SuggetionWebApplication",
+        "tools" : ["Blazor server side","MongoDb","Azure AD B2C","Azure"]
+    },
+    {
+        "id": 2,
+        "title": "Club CHOM website",
+        "desc": "Introduction.",
+        "liveUrl": "https://source.unsplash.com/1600x900/?product",
+        "gitUrl" : "https://github.com/yangryu321",
+        "tools" : ["Razor page","SqlServer","Ef Core","Stored procedure"]
+    },
+    {
+        "id": 3,
+        "title": "Angular with asp.net core webAPI",
+        "desc": "Introduction.",
+        "liveUrl": "https://source.unsplash.com/1600x900/?product",
+        "gitUrl" : "https://github.com/yangryu321",
+        "tools" : ["asp.net core webAPI","Angular 13","SqlServer","Ef core"]
+    },
+    {
+        "id": 4,
+        "title": "Tournament Tracker",
+        "desc": "Introduction.",
+        "liveUrl": "",
+        "gitUrl" : "https://github.com/yangryu321",
+        "tools" : ["Win form","SqlServer","Dapper","Stored procedure"]
+    }
+]
