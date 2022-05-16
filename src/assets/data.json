@@ -11,7 +11,7 @@
         "id": 2,
         "title": "Club CHOM website",
         "desc": "Introduction.",
-        "liveUrl": "https://source.unsplash.com/1600x900/?product",
+        "liveUrl": "https://clubchom.azurewebsites.net",
         "gitUrl" : "https://github.com/yangryu321",
         "tools" : ["Razor page","SqlServer","Ef Core","Stored procedure"]
     },
