@@ -12,7 +12,7 @@
         "title": "Club CHOM website",
         "desc": "Introduction.",
         "liveUrl": "https://clubchom.azurewebsites.net",
-        "gitUrl" : "https://github.com/yangryu321",
+        "gitUrl" : "https://github.com/yangryu321/RazorPage",
         "tools" : ["Razor page","SqlServer","Ef Core","Stored procedure"]
     },
     {
