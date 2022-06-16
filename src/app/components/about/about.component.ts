@@ -18,7 +18,12 @@ export class AboutComponent implements OnInit {
   constructor(private contentfulApiService: ContentfulService) { }
 
   ngOnInit(): void {
-    this.about$ = this.contentfulApiService.getDetails('about');
+    this.about$ = this.contentfulApiService.getAlltools();
+    console.log(this.about$);
+    this.about$.forEach(next => 
+      {
+        console.log(next);
+      })
   }
 
 

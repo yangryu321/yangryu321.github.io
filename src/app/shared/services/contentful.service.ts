@@ -45,7 +45,7 @@ export class ContentfulService {
 
   getAlltools()
   {
-
+      return this.http.get("assets/tools.json")
   }
 
 }

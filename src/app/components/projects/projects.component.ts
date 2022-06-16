@@ -4,6 +4,7 @@ import "core-js/stable";
 import "regenerator-runtime/runtime"; 
 import { Observable } from 'rxjs';
 
+
 @Component({
   selector: 'app-projects',
   templateUrl: './projects.component.html',
@@ -20,8 +21,7 @@ export class ProjectsComponent implements OnInit {
   ngOnInit() { 
     // this.projects$ = this.contentfulApiService.getDetails('projects');
     this.projects$ = this.contentfulApiService.getAllProjects();
-    this.haha = "haah";
-    console.log(this.projects$);
+ 
   }
 
 }

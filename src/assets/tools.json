@@ -1,0 +1,9 @@
+[
+    {
+        "whichend" : "Frontend",
+       "tools" :["Blazor (server side)","Razor page","MVC","webAPI",
+        "minimalAPI","Microsoft SQL Server","EF Core","Dapper","MongoDB","Azure","Azure AD B2C","JWT","Angular","Bootstrap",
+        "And more"]
+    }
+
+]

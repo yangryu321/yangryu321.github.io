@@ -62,6 +62,38 @@ ul.skills-list li::before {
   color: var(--secondary-text-color);
 }
 
+.about{
+  display: flex;
+  gap: 5rem;
+  // flex-flow: row wrap;
+  padding: 1em;
+
+  // width: 800px;
+  // border: 10px solid firebrick;
+}
+@media (max-width :1179px){
+  .about{
+    flex-direction: column;
+    align-items: center;
+    
+  }
+
+}
+
+.about > *{
+ flex-shrink: 1;
+ flex-basis: 100%;
+
+}
+
+.para{
+  display: flex;
+  flex-wrap: wrap;
+  // border: 10px solid rgb(131, 196, 25);
+}
+
+
+
 @media all and (max-width: 768px) {
   .user__info {
     flex-flow: wrap;
@@ -70,4 +102,9 @@ ul.skills-list li::before {
   .user__info {
     display: block;
   }
+
+  
+  
+ 
 }
+

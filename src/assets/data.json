@@ -7,20 +7,20 @@
         "gitUrl" : "https://github.com/yangryu321/SuggetionWebApplication",
         "tools" : ["Blazor server side","MongoDb","Azure AD B2C","Azure"]
     },
-    {
+    { 
         "id": 2,
         "title": "Club CHOM website",
         "desc": "Introduction.",
         "liveUrl": "https://clubchom.azurewebsites.net",
         "gitUrl" : "https://github.com/yangryu321/RazorPage",
-        "tools" : ["Razor page","SqlServer","Ef Core","Stored procedure"]
+        "tools" : ["Razor page","SqlServer","Ef Core","Stored procedure","Azure"]
     },
     {
         "id": 3,
         "title": "Angular with asp.net core webAPI",
         "desc": "Introduction.",
-        "liveUrl": "https://source.unsplash.com/1600x900/?product",
-        "gitUrl" : "https://github.com/yangryu321",
+        "liveUrl": "",
+        "gitUrl" : "https://github.com/yangryu321/webAPIwithSQL",
         "tools" : ["asp.net core webAPI","Angular 13","SqlServer","Ef core"]
     },
     {
@@ -28,7 +28,7 @@
         "title": "Tournament Tracker",
         "desc": "Introduction.",
         "liveUrl": "",
-        "gitUrl" : "https://github.com/yangryu321",
+        "gitUrl" : "https://github.com/yangryu321/TournamentTracker",
         "tools" : ["Win form","SqlServer","Dapper","Stored procedure"]
     }
 ]
