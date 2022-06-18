@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "Street Fighter 6 Wishlist website",
-        "desc": "Introduction.",
+        "desc": "Please give it 15 to 30 seconds to load the website as it is being hosted on free tier Azure and MongoDB. Please sign up to fully experience the website. :)",
         "liveUrl": "https://sf6wishlist.azurewebsites.net/",
         "gitUrl" : "https://github.com/yangryu321/SuggetionWebApplication",
         "tools" : ["Blazor server side","MongoDb","Azure AD B2C","Azure"]
@@ -10,7 +10,7 @@
     { 
         "id": 2,
         "title": "Club CHOM website",
-        "desc": "Introduction.",
+        "desc": "Please give it 15 to 30 seconds to load the website as it is being hosted on free tier Azure and SQL.",
         "liveUrl": "https://clubchom.azurewebsites.net",
         "gitUrl" : "https://github.com/yangryu321/RazorPage",
         "tools" : ["Razor page","SqlServer","Ef Core","Stored procedure","Azure"]
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "title": "Angular with asp.net core webAPI",
-        "desc": "Introduction.",
+        "desc": "Not yet online, more features are being added in the future.",
         "liveUrl": "",
         "gitUrl" : "https://github.com/yangryu321/webAPIwithSQL",
         "tools" : ["asp.net core webAPI","Angular 13","SqlServer","Ef core"]
@@ -26,7 +26,7 @@
     {
         "id": 4,
         "title": "Tournament Tracker",
-        "desc": "Introduction.",
+        "desc": "Desktop software, check Github for source code and download.",
         "liveUrl": "",
         "gitUrl" : "https://github.com/yangryu321/TournamentTracker",
         "tools" : ["Win form","SqlServer","Dapper","Stored procedure"]
