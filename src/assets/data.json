@@ -13,7 +13,7 @@
         "desc": "Please give it 15 to 30 seconds to load the website as it is being hosted on free tier Azure and SQL.",
         "liveUrl": "https://clubchom.azurewebsites.net",
         "gitUrl" : "https://github.com/yangryu321/RazorPage",
-        "tools" : ["Razor page","SqlServer","Ef Core","Stored procedure","Azure"]
+        "tools" : ["Razor page","SQL Server","EF Core","Stored procedure","Azure"]
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "desc": "Not yet online, more features are being added in the future.",
         "liveUrl": "",
         "gitUrl" : "https://github.com/yangryu321/webAPIwithSQL",
-        "tools" : ["asp.net core webAPI","Angular 13","SqlServer","Ef core"]
+        "tools" : ["ASP.NET core webAPI","Angular 13","SQL Server","EF Core"]
     },
     {
         "id": 4,
@@ -29,6 +29,6 @@
         "desc": "Desktop software, check Github for source code and download.",
         "liveUrl": "",
         "gitUrl" : "https://github.com/yangryu321/TournamentTracker",
-        "tools" : ["Win form","SqlServer","Dapper","Stored procedure"]
+        "tools" : ["Win form","SQL Server","Dapper","Stored procedure"]
     }
 ]
