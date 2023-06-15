@@ -11,7 +11,7 @@
         "id": 2,
         "title": "Club CHOM website",
         "desc": "Please give it 15 to 30 seconds to load the website as it is being hosted on free tier Azure and SQL.",
-        "liveUrl": "https://clubchom.azurewebsites.net",
+        "liveUrl": "https://clubchomchom.azurewebsites.net",
         "gitUrl" : "https://github.com/yangryu321/RazorPage",
         "tools" : ["Razor page","SQL Server","EF Core","Stored procedure","Azure"]
     },
